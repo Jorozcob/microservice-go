@@ -1,4 +1,4 @@
-module microservice-go
+module github.com/Jorozcob/microservice-go 
 
 go 1.22.2
 
